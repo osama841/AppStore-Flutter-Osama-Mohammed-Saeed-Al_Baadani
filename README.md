@@ -44,10 +44,10 @@
 - تنسيق واجهات احترافية باستخدام ألوان وتخطيط عصري.
 
 #### 🖼️ لقطات شاشة:
-
-![alt text](<assets/screenshots/Screenshot 2025-08-23 002918.png>)
+![alt text](assets/screenshots/img1.png)
+<!-- ![alt text](<assets/screenshots/Screenshot 2025-08-23 002918.png>)
 ![alt text](<assets/screenshots/Screenshot 2025-08-22 235236.png>)
-![alt text](<assets/screenshots/Screenshot 2025-08-23 002934.png>)
+![alt text](<assets/screenshots/Screenshot 2025-08-23 002934.png>) -->
 
 ---
 
