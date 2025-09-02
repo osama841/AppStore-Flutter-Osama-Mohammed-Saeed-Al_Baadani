@@ -48,12 +48,11 @@
 
 #### 🖼️ لقطات شاشة:
 
+![alt text](assets/screenshots/img1.png)
+
 <!-- ![alt text](<assets/screenshots/Screenshot 2025-08-23 002918.png>)
 ![alt text](<assets/screenshots/Screenshot 2025-08-22 235236.png>)
-![alt text](<assets/screenshots/Screenshot 2025-08-23 002934.png>)
- -->
-
-![alt text](<assets/screenshots/img1 (1).png>)
+![alt text](<assets/screenshots/Screenshot 2025-08-23 002934.png>) -->
 
 ---
 
@@ -66,7 +65,9 @@
 
 ##### لقطه شاشه التكليف 2
 
-## ![alt text](<assets/screenshots/Screenshot 2025-09-02 224941.png>)
+![alt text](<assets/screenshots/Screenshot 2025-09-02 224941.png>)
+
+---
 
 ### ⏳ الأسبوع الثالث: تصميم واجهة عرض المنتجات
 
@@ -108,7 +109,7 @@
 lib/
 ├── main.dart
 └── screens/
-    ├──homwork.dart
+    ├──  homwork.dart
     ├── login_screen.dart
     ├── register_screen.dart
     └── reset_password_screen.dart
